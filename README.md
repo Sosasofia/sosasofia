@@ -21,7 +21,7 @@
 
 ### _How to reach me:_
 <p align="left">
-	<a href="https://github.com/Sosasofia?tab=repositories"><img width='80px' alt="github" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/sofia-sosa"><img width='80px' alt="linkedin" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://github.com/Sosasofia?tab=repositories" target="_blank"><img width='80px' alt="github" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/sofia-sosa" target="_blank"><img width='80px' alt="linkedin" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="mailto:sosasofiabeatriz@gmail.com"><img width='80px' alt="email"src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
 </p>
