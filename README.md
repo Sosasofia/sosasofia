@@ -1,16 +1,27 @@
-### Hi there 👋
+# ❀ _Hi there! I´m Sofia_ ❀
+<img src='https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif' width='300' align='right'></img>
 
-<!--
-**Sosasofia/sosasofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### _About me:_
+* _I'm a 22 years old living in Buenos Aires, Argentina._
+* _I'm currently studying at <a href="https://www.frba.utn.edu.ar/">UTN FRBA</a>._
+* _Self-taught frontend developer, looking for my first job._
+* _Currently learning React._
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### _Languages & Tools:_
+* _HTML_
+* _CSS_
+* _Javascript_
+* _React_
+* _Sass_
+* _GIT_
+* _Styled Components_
+* _Node_
+
+
+### _How to reach me:_
+<p align="left">
+	<a href="https://github.com/Sosasofia?tab=repositories"><img width='80px' alt="github" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/sofia-sosa"><img width='80px' alt="linkedin" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="mailto:sosasofiabeatriz@gmail.com"><img width='80px' alt="email"src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
+</p>
