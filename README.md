@@ -2,7 +2,7 @@
 <img src='https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif' width='300' align='right'></img>
 
 ### _About me:_
-* _I'm a 22 years old living in Buenos Aires, Argentina._
+* _I'm 22 years old based in Buenos Aires, Argentina._
 * _I'm currently studying at <a href="https://www.frba.utn.edu.ar/">UTN FRBA</a>._
 * _Self-taught frontend developer, looking for my first job._
 * _Currently learning React._
