@@ -25,3 +25,6 @@
 	<a href="https://www.linkedin.com/in/sofia-sosa" target="_blank"><img width='80px' alt="linkedin" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="mailto:sosasofiabeatriz@gmail.com"><img width='80px' alt="email"src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
 </p>
+
+
+˚· <a href="https://portfolio-sosasofia.vercel.app/">Portfolio</a> ·˚
