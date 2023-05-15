@@ -2,20 +2,20 @@
 <img src='https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif' width='300' align='right'></img>
 
 ### _About me:_
-* _I'm 22 years old based in Buenos Aires, Argentina._
-* _I'm currently studying at <a href="https://www.frba.utn.edu.ar/">UTN FRBA</a>._
+* _I'm 24 years old based in Buenos Aires, Argentina._
+* _Currently studying at <a href="https://www.frba.utn.edu.ar/">UTN FRBA</a>._
 * _Self-taught frontend developer, looking for my first job._
-* _Currently learning React._
 
 
 ### _Languages & Tools:_
-* _HTML_
-* _CSS_
+* _HTML/CSS_
 * _Javascript_
-* _React_
 * _Sass_
+* _Styled Components_ 
+* _React_
+* _Redux_
+* _Tailwind_
 * _GIT_
-* _Styled Components_
 * _Node_
 
 
@@ -28,3 +28,4 @@
 
 
 ˚· <a href="https://portfolio-sosasofia.vercel.app/">Portfolio</a> ·˚
+˚· <a href="https://drive.google.com/file/d/1MgqEgM5MFwOo1LrGbGnfc-C5sFXdYzWZ/view">CV</a> ·˚
