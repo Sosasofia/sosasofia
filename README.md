@@ -28,4 +28,4 @@
 
 
 ˚· <a href="https://portfolio-sosasofia.vercel.app/">Portfolio</a> ·˚
-˚· <a href="https://drive.google.com/file/d/1MgqEgM5MFwOo1LrGbGnfc-C5sFXdYzWZ/view">CV</a> ·˚
+˚· <a href="https://drive.google.com/file/d/1Y3sDdN4REi2EK3sJXo5BanBW6_EXb9dT/view">CV</a> ·˚
