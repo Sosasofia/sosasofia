@@ -1,11 +1,20 @@
 ### _Hey there, I'm Sofia_ 👋
-_Frontend Developer from Buenos Aires, Argentina._
+**Software Developer | .NET Backend Specialist | Azure Certified**
 
-#### ꩜ Tech Stack:
-##### React | Nextjs | Typescript | Tailwind | NodeJs
+Developer based in **Buenos Aires, Argentina**, specializing in the **Microsoft ecosystem** (C#, .NET, Azure). With a strong background in **modern Frontend development** (Angular/React), I focus on writing clean, scalable code and designing robust cloud-native architectures.
 
-#### ꩜ Currently learning:
-##### C#
+- **Currently working on:** A comprehensive personal finance tracker using .NET and Angular.
+- **Education:** Systems Engineering Student at UTN FRBA (On going).
+- **Certifications:** Microsoft Certified: Azure Fundamentals (AZ-900).
+
+#### ꩜ Core Stack:
+##### C# | .NET Core | SQL Server | Microsoft Azure
+
+#### ꩜ Full Stack Skills:
+##### Angular | React | TypeScript | Node.js | Tailwind CSS
+
+#### ꩜ Currently focusing on:
+##### Advanced .NET Architecture & Cloud Design Patterns
 
 ### Contact me
 <a href="https://www.linkedin.com/in/sosa-sofia"><img width="40" height="40" src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="linkedin-circled--v1" title="Linkedin"/></a>
